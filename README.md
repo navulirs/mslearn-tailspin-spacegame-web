@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_apis/build/status/navulirs.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_apis/build/status/navulirs.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2)
 
 # Contributing
 
