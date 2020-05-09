@@ -1,5 +1,4 @@
-
-[![Build Status](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_apis/build/status/navulirs.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sriluvan/pace%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=navulirs_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=navulirs_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
