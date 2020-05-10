@@ -1,0 +1,7 @@
+organization=navulirs-github
+projectKey=navulirs_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7716
+dashboardUrl=https://sonarcloud.io/dashboard?id=navulirs_mslearn-tailspin-spacegame-web
+ceTaskId=AXH6TmPmhUrxAlEARniQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXH6TmPmhUrxAlEARniQ
